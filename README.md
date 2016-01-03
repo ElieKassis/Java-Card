@@ -1,9 +1,17 @@
 
-Présentation, historique, différents types, propriétés, utilisations…
+1. Présentation
 
-Sécurité, cryptographie
+		1.1. historique
 
-Transaction et atomicité dans les JAVA cards
+		1.2. différents types
 
-Exemples de Programmation
+		1.3. propriétés
+
+		1.4. utilisations…
+
+2. Sécurité, cryptographie
+
+3. Transaction et atomicité dans les JAVA cards
+
+4. Exemples de Programmation
 
