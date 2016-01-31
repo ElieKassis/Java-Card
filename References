@@ -2,3 +2,15 @@ Simulator download link:  https://jcardsim.org/
 
 Java Card Applet Developer’s Guide: https://www.informatik.uni-augsburg.de/lehrstuehle/swt/se/teaching/fruehere_semester/ws0708/javacard/Dokumentation/JCADG.pdf
 
+JavaCard cryptography: https://www.fi.muni.cz/~xsvenda/docs/SC_JavaCardCrypto.pdf
+
+Java Card DES generator applet output is different from online-tools output: http://stackoverflow.com/questions/30148089/java-card-des-generator-applet-output-is-different-from-online-tools-output
+
+Development Kit User's Guide, Java Card Platform, Version 2.2.2: http://askra.de/software/jcdocs/kit-user-2.2.2/cJDKcrypto.html
+
+Securing Java Card applications: http://www.ibm.com/developerworks/wireless/library/wi-satsa2/tmp0002.html
+
+Package javacard.security: http://www.win.tue.nl/pinpasjc/docs/apis/jc222/javacard/security/package-summary.html
+
+Class Cipher: http://www.win.tue.nl/pinpasjc/docs/apis/jc222/javacardx/crypto/Cipher.html
+
