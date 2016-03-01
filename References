@@ -16,3 +16,4 @@ Class Cipher: http://www.win.tue.nl/pinpasjc/docs/apis/jc222/javacardx/crypto/Ci
 
 Strucutre des donnees dans java cards selon ISO7816: http://www.cardwerk.com/smartcards/smartcard_standard_ISO7816-4_5_basic_organizations.aspx
 
+Java cars simulator: https://jcardsim.org/docs/quick-start-guide-using-in-cli-mode et https://jcardsim.org/docs/quick-start-guide-simulator-api
