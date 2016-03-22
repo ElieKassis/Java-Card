@@ -11,7 +11,5 @@
 
 2. Sécurité, cryptographie
 
-3. Transaction et atomicité dans les JAVA cards
-
-4. Exemples de Programmation
+3. Exemples de Programmation
 
